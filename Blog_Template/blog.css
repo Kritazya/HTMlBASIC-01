@@ -1,0 +1,127 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+*{
+    padding: 0px;
+    margin: 0px;
+   
+}
+body{
+    background: #F1F1F1;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    line-height: 24px;
+}
+h1,h2,h3,h4,h5,h6
+{ font-weight: 700; }
+header
+{
+    text-align: center;
+    padding-top: 64px;
+    padding-bottom: 64px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+header p{
+    margin-top: 30px;
+}
+header span{
+    background: #000;
+    color: white;
+    padding: 4px 10px;
+}
+main{
+    width: 1360px;
+    margin: auto;
+}
+section{
+    width: 60%;
+    height: 50%;
+    float: left;
+}
+aside{
+    width: 30%;
+    float: right;
+    
+}
+article{
+   margin-bottom: 30px;
+    box-shadow: 0 4px 10px 0 rgb(0 0 0 / 20%), 0 4px 20px 0 rgb(0 0 0 / 19%);
+}
+article img{
+    width: 100%;
+    display: block;
+}
+.writing{
+    padding: 20px;
+    text-align: justify;
+    background-color: #fff;
+   
+}
+.writing h2{padding: 0px 5px 20px 10px; font-size: 24px;}
+.writing h3{padding: 0px 5px 20px 10px;}
+.writing p{padding: 0px 5px 20px 10px;}
+
+
+footer{
+    clear: both;
+    padding: 20px 10px;
+    background: #616161;
+    height: 100px;
+}
+footer button{
+    background: #000;
+    color: white;
+}
+
+button
+{
+    padding: 10px 20px;
+}
+.writing .comment{
+    float: right;
+}
+
+.Posts{
+    padding: 20px 10px;
+    background-color: #F1F1F1;
+}
+
+article ul{
+    list-style: none;
+}
+.contents{
+    background-color: #fff;
+}
+.contents li{
+    padding: 15px;
+    clear: both;
+    
+}
+
+.contents li img{
+    float: left;
+    width: 50px;
+    margin-right: 20px;
+
+}
+.c{
+    display: inline-block;
+    background-color: #000;
+    color: white;
+    margin-right: 2px;
+    margin-bottom: 20px;
+    padding: 10px;
+    box-sizing: border-box;
+ 
+}
+.c1
+{
+    display: inline-block;
+    background-color: #F1F1F1;
+    margin-bottom: 20px;
+
+}
+.blocks{
+    background-color: #fff;
+    padding: 15px;
+}
