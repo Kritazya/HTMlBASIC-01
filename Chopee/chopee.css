@@ -1,0 +1,37 @@
+a {
+  text-decoration: none;
+  color: #FF3F54 !important;
+}
+
+.top {
+  background: #FF3F54;
+  font-size: small;
+}
+
+.okay {
+  font-size: small;
+  font-weight: 500;
+}
+
+ul {
+  list-style: none;
+}
+
+ul li {
+  display: inline;
+}
+
+.twin {
+  padding: 40px 0px 30px 80px;
+  font-size: smaller;
+}
+
+.d-flex {
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+.done {
+  font-size: 10px;
+}
+/*# sourceMappingURL=style.css.map */
